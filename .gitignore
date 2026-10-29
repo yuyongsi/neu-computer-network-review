@@ -1,0 +1,12 @@
+# Windows and editor clutter
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+
+# Local environment and exported study records
+.env
+.env.*
+学习记录*.json
+study-backup*.json
